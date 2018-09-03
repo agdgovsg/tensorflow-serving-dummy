@@ -1,0 +1,1 @@
+FROM jiewpeng/tensorflow-serving-dummy
