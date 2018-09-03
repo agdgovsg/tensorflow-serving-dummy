@@ -1,1 +1,1 @@
-FROM jiewpeng/tensorflow-serving-dummy
+FROM agdgovsg/tensorflow-serving-dummy
