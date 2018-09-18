@@ -1,6 +1,6 @@
 FROM tensorflow/serving:latest-devel as build_image
 
-FROM bitnami/minideb:latest
+FROM ubuntu:18.10
 
 RUN apt-get update && apt-get install -y --no-install-recommends \
         ca-certificates \
